@@ -1,0 +1,17 @@
+{
+    "name": "spirax-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Brenda Gallo"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/spirax-bower.git"
+    },
+    "description": "Spirax font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
